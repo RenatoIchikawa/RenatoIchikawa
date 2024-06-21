@@ -2,7 +2,7 @@
 📚 Engenharia de Software - FIAP (2024 - 2027)<br>💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)<br>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Ichikawa;I'm+20+years+old;I'm+from+Brazil;I+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Ichikawa;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-izumi-ichikawa-323904233) 
